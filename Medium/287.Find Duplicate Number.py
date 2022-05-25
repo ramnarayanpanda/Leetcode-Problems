@@ -17,6 +17,9 @@
 
 
 
+from typing import Optional, List
+import math
+
 
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:

@@ -17,6 +17,9 @@
 
 
 
+from typing import Optional, List
+import math
+
 
 class Solution:
     def findMedianSortedArrays(self, num1: List[int], num2: List[int]) -> float:

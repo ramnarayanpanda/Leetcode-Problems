@@ -21,6 +21,8 @@
 # Output: [0,1]
 
 
+from typing import Optional, List
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         dct = {}

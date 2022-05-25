@@ -27,7 +27,8 @@
 # Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1.
 
 
-
+from typing import Optional, List
+import math
 
 
 

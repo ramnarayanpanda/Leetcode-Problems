@@ -40,6 +40,9 @@
 
 
 
+from typing import Optional, List
+import math
+
 
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
